@@ -1,0 +1,13 @@
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\bin\Debug\netcoreapp3.1\GitPractice.exe
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\bin\Debug\netcoreapp3.1\GitPractice.deps.json
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\bin\Debug\netcoreapp3.1\GitPractice.runtimeconfig.json
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\bin\Debug\netcoreapp3.1\GitPractice.runtimeconfig.dev.json
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\bin\Debug\netcoreapp3.1\GitPractice.dll
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\bin\Debug\netcoreapp3.1\GitPractice.pdb
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\obj\Debug\netcoreapp3.1\GitPractice.csproj.AssemblyReference.cache
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\obj\Debug\netcoreapp3.1\GitPractice.AssemblyInfoInputs.cache
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\obj\Debug\netcoreapp3.1\GitPractice.AssemblyInfo.cs
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\obj\Debug\netcoreapp3.1\GitPractice.csproj.CoreCompileInputs.cache
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\obj\Debug\netcoreapp3.1\GitPractice.dll
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\obj\Debug\netcoreapp3.1\GitPractice.pdb
+C:\Users\Sona G\source\repos\GitPractice\GitPractice\obj\Debug\netcoreapp3.1\GitPractice.genruntimeconfig.cache
